@@ -1,0 +1,57 @@
+SCREENSHOT INSTRUCTIONS FOR CHROME WEB STORE
+=============================================
+
+Required screenshots for Chrome Web Store submission:
+- Minimum 1 screenshot (recommended: 2-5)
+- Dimensions: 1280x800 or 640x400 pixels
+- Format: PNG or JPEG
+- Show extension in action
+
+SCREENSHOT 1: Success State
+----------------------------
+1. Load the extension in Chrome
+2. Log into ESPN Fantasy Football
+3. Click extension icon to open popup
+4. Click "Extract ESPN Cookies" button
+5. Capture screenshot showing SUCCESS state with:
+   - Trophy icon and "How We Lookin" branding
+   - Green success message
+   - Both cookies displayed (ESPN_S2 truncated, SWID shown)
+   - Copy buttons visible
+   - Instructions at bottom
+
+Use a screenshot tool that captures just the popup window,
+or use Chrome DevTools to capture the popup.
+
+SCREENSHOT 2: Instructions/Help
+--------------------------------
+Option A: Show the error state
+1. Open popup while NOT logged into ESPN
+2. Capture the error message with link to ESPN login
+
+Option B: Show before clicking extract
+1. Capture the initial state with just the Extract button
+2. Shows clean UI and branding
+
+TIPS:
+-----
+- Use high resolution displays for crisp screenshots
+- Ensure good lighting/contrast
+- Show realistic but anonymized cookie data
+- Crop tightly around the popup (no excess browser chrome)
+- Test that screenshots look good when thumbnail-sized
+
+TOOLS:
+------
+- Windows: Snipping Tool, Win + Shift + S
+- Mac: Cmd + Shift + 4
+- Chrome DevTools: Right-click popup > Inspect > Take screenshot
+- Third-party: Greenshot, ShareX, Lightshot
+
+CHROME WEB STORE REQUIREMENTS:
+-------------------------------
+Visit: https://developer.chrome.com/docs/webstore/images/
+- Max file size: 16MB each
+- Recommended: 1280x800 or 640x400
+- Can include promotional images (440x280)
+- Main icon must be 128x128 (already in icons/ folder)

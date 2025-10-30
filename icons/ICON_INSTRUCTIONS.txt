@@ -1,0 +1,52 @@
+ICON GENERATION INSTRUCTIONS
+============================
+
+The extension requires 4 PNG icons with transparent backgrounds:
+- icon16.png (16x16 pixels) - Toolbar icon
+- icon32.png (32x32 pixels) - Management page
+- icon48.png (48x48 pixels) - Extensions page
+- icon128.png (128x128 pixels) - Chrome Web Store
+
+METHOD 1: Emoji to PNG (Quick & Easy)
+--------------------------------------
+
+1. Visit: https://emoji-to-png.com/ or https://emojidb.org/
+2. Search for "trophy" emoji 🏆
+3. Download PNG at each size (16, 32, 48, 128)
+4. Ensure transparent background
+5. Replace the placeholder .png files in this folder
+
+METHOD 2: Canva (Professional)
+-------------------------------
+
+1. Go to canva.com
+2. Create custom dimensions for each size
+3. Add trophy emoji 🏆 or design custom icon
+4. Apply blue-to-purple gradient (#60a5fa to #a78bfa)
+5. Download as PNG with transparent background
+6. Replace the placeholder files
+
+METHOD 3: Figma/Adobe Illustrator (Advanced)
+----------------------------------------------
+
+1. Design custom trophy icon
+2. Use brand colors: blue (#3b82f6) and purple (#8b5cf6)
+3. Export at 4 sizes: 16, 32, 48, 128
+4. Ensure crisp edges at small sizes (16px)
+5. Test visibility on both light and dark backgrounds
+
+DESIGN GUIDELINES:
+------------------
+- Keep it simple and recognizable at 16x16
+- High contrast for toolbar visibility
+- Brand colors: blue/purple gradient
+- Transparent background (not white)
+- Clear at all sizes (no small details that blur)
+
+QUICK TESTING:
+--------------
+After replacing icons, reload the extension in chrome://extensions/
+and check the icon appears correctly in:
+- Browser toolbar (top right)
+- Extensions management page
+- Extension popup header

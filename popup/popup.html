@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How We Lookin - ESPN Helper</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header with branding -->
+    <div class="header">
+      <span class="icon" role="img" aria-label="Trophy">🏆</span>
+      <h1>How We Lookin</h1>
+      <p class="subtitle">ESPN Cookie Helper</p>
+    </div>
+
+    <!-- Extract button -->
+    <button id="extractBtn" class="btn-primary" aria-label="Extract ESPN Cookies">
+      Extract ESPN Cookies
+    </button>
+
+    <!-- Results area (hidden initially) -->
+    <div id="results" class="results hidden" role="status" aria-live="polite">
+      <!-- Success state -->
+      <div id="successState" class="hidden">
+        <p class="success-message">✅ Cookies extracted successfully!</p>
+
+        <div class="cookie-box">
+          <label for="espnS2Value">ESPN_S2:</label>
+          <div class="cookie-value" id="espnS2Value" title="" aria-label="ESPN S2 Cookie Value"></div>
+          <button class="btn-copy" id="copyS2" aria-label="Copy ESPN S2 Cookie">Copy</button>
+        </div>
+
+        <div class="cookie-box">
+          <label for="swidValue">SWID:</label>
+          <div class="cookie-value" id="swidValue" title="" aria-label="SWID Cookie Value"></div>
+          <button class="btn-copy" id="copySWID" aria-label="Copy SWID Cookie">Copy</button>
+        </div>
+
+        <div class="instructions">
+          <p>📋 Paste these into <a href="http://localhost:3000/settings" target="_blank" rel="noopener noreferrer">How We Lookin</a> to sync your leagues.</p>
+        </div>
+      </div>
+
+      <!-- Error state -->
+      <div id="errorState" class="hidden">
+        <p class="error-message">❌ Could not find ESPN cookies</p>
+        <p class="error-help">Make sure you're logged into <a href="https://fantasy.espn.com" target="_blank" rel="noopener noreferrer">ESPN Fantasy Football</a> first.</p>
+      </div>
+
+      <!-- Loading state -->
+      <div id="loadingState" class="hidden">
+        <p>⏳ Extracting cookies...</p>
+      </div>
+    </div>
+
+    <!-- Help footer -->
+    <div class="footer">
+      <a href="http://localhost:3000/help" target="_blank" rel="noopener noreferrer">Need help?</a>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
