@@ -167,13 +167,12 @@ Your Chrome Extension for extracting ESPN cookies has been successfully built ac
   - Replace `your-app.com` links
   - Update support contact info
 
-**Search & Replace:**
+**URLs Updated:**
 ```bash
-# Find all instances
-grep -r "your-app.com" .
-
-# Replace with actual domain
-find . -type f -name "*.md" -o -name "*.html" -exec sed -i 's/your-app.com/actual-domain.com/g' {} +
+# All instances replaced with:
+# how-we-lookin.vercel.app (production domain)
+# Support: support@how-we-lookin.vercel.app
+# GitHub: https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension
 ```
 
 ### 3. Take Screenshots (Recommended for Chrome Web Store)
@@ -274,11 +273,11 @@ Languages: JavaScript, HTML, CSS, Markdown
 
 ### Short-Term (Pre-Publishing)
 
-6. [ ] Create 4 icon PNG files (see `icons/ICON_INSTRUCTIONS.txt`)
-7. [ ] Update all `your-app.com` URLs to actual domain
-8. [ ] Update support email in all files
-9. [ ] Take 1-2 screenshots for Chrome Web Store
-10. [ ] Run full test suite (`TESTING.md`)
+6. [✅] Create 4 icon PNG files (see `icons/ICON_INSTRUCTIONS.txt`)
+7. [✅] Update all URLs to production domain (how-we-lookin.vercel.app)
+8. [✅] Update support email in all files
+9. [✅] Take screenshots for Chrome Web Store
+10. [ ] Run full test suite with production URLs (`TESTING.md`)
 
 ### Medium-Term (Publishing)
 
@@ -326,8 +325,8 @@ Languages: JavaScript, HTML, CSS, Markdown
 
 **Fix:** Create PNG icons (see `icons/ICON_INSTRUCTIONS.txt`)
 
-### Placeholder Content
-- ⚠️ All URLs use `your-app.com` placeholder
+### Production URLs Updated
+- ✅ All URLs updated to production domain: `how-we-lookin.vercel.app`
 - ⚠️ Support email is placeholder: `support@your-app.com`
 - ⚠️ GitHub links are placeholder templates
 

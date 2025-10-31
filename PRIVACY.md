@@ -118,7 +118,7 @@ The extracted cookies are intended for use with the **How We Lookin** web applic
 ### How We Lookin's Privacy Practices
 
 Once you paste cookies into How We Lookin:
-- Refer to [How We Lookin's Privacy Policy](https://your-app.com/privacy) for how they handle cookies
+- Refer to [How We Lookin's Privacy Policy](https://how-we-lookin.vercel.app/privacy) for how they handle cookies
 - How We Lookin may store cookies on their servers to fetch your league data
 - How We Lookin may make API requests to ESPN using your cookies
 - This extension is not responsible for How We Lookin's data practices
@@ -171,7 +171,7 @@ This extension interacts with:
 ### How We Lookin (Optional)
 - **What we do:** Nothing automatically
 - **What you do:** Manually paste cookies into their website
-- **How We Lookin's policies:** See [How We Lookin Privacy Policy](https://your-app.com/privacy)
+- **How We Lookin's policies:** See [How We Lookin Privacy Policy](https://how-we-lookin.vercel.app/privacy)
 
 **We are not responsible for the privacy practices of these third-party services.**
 
@@ -227,16 +227,16 @@ This extension complies with:
 
 ### Questions About Privacy?
 
-**Email:** support@your-app.com
+**Email:** support@how-we-lookin.vercel.app
 
-**Website:** [https://your-app.com/privacy](https://your-app.com/privacy)
+**Website:** [https://how-we-lookin.vercel.app/privacy](https://how-we-lookin.vercel.app/privacy)
 
-**GitHub:** [https://github.com/your-username/espn-cookie-helper/issues](https://github.com/your-username/espn-cookie-helper/issues)
+**GitHub:** [https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension/issues](https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension/issues)
 
 ### Report Security Issues
 
 If you discover a security vulnerability:
-- Email: security@your-app.com
+- Email: security@how-we-lookin.vercel.app
 - Do NOT post publicly until we've had a chance to fix it
 - We'll acknowledge receipt within 48 hours
 - We'll work with you to address the issue
@@ -296,4 +296,4 @@ This extension is **not affiliated with, endorsed by, or sponsored by ESPN**.
 
 **Version:** 1.0.0
 
-**Questions?** Contact us at support@your-app.com or open an issue on [GitHub](https://github.com/your-username/espn-cookie-helper/issues).
+**Questions?** Contact us at support@how-we-lookin.vercel.app or open an issue on [GitHub](https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension/issues).

@@ -51,7 +51,7 @@ Get the ESPN Cookie Helper extension running in under 5 minutes!
    - Recommended: 1280x800 or 640x400
 
 3. **Update URLs** (Before publishing)
-   - Replace `your-app.com` in:
+   - Replace placeholder URLs with production domain in:
      - `popup/popup.html` (2 occurrences)
      - `README.md` (multiple occurrences)
      - `PRIVACY.md` (multiple occurrences)
@@ -167,8 +167,8 @@ User → ESPN Login → Extension → Extract → Copy → How We Lookin → Syn
 
 ## ✉️ Support
 
-- **Issues:** [GitHub Issues](#) (add repo link)
-- **Email:** support@your-app.com (update with real email)
+- **Issues:** [GitHub Issues](https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension/issues)
+- **Email:** support@how-we-lookin.vercel.app
 - **Docs:** [README.md](README.md)
 
 ---

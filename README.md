@@ -1,6 +1,6 @@
 # How We Lookin - ESPN Cookie Helper
 
-> Chrome extension to extract ESPN Fantasy Football authentication cookies for use with the [How We Lookin](https://your-app.com) web application.
+> Chrome extension to extract ESPN Fantasy Football authentication cookies for use with the [How We Lookin](https://how-we-lookin.vercel.app) web application.
 
 ## What It Does
 
@@ -79,7 +79,7 @@ For testing or development:
    - Click **"Copy"** next to `SWID` (short value, like `{ABC-123}`)
 
 5. **Paste into How We Lookin**
-   - Go to [How We Lookin Settings](https://your-app.com/settings)
+   - Go to [How We Lookin Settings](https://how-we-lookin.vercel.app/settings)
    - Paste `ESPN_S2` into the first field
    - Paste `SWID` into the second field
    - Click **"Save"** or **"Connect League"**
@@ -247,9 +247,9 @@ Before submitting to the Chrome Web Store:
 
 ## Support & Contact
 
-- **Website:** [https://your-app.com](https://your-app.com)
-- **Issues:** [GitHub Issues](https://github.com/your-username/espn-cookie-helper/issues)
-- **Email:** support@your-app.com
+- **Website:** [https://how-we-lookin.vercel.app](https://how-we-lookin.vercel.app)
+- **Issues:** [GitHub Issues](https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension/issues)
+- **Email:** support@how-we-lookin.vercel.app
 - **Main App Repo:** [How We Lookin Repository](#)
 
 ## Contributing
@@ -282,4 +282,4 @@ ESPN, ESPN Fantasy Football, and related marks are trademarks of ESPN, Inc.
 
 **Made with 🏆 for fantasy football enthusiasts**
 
-*Having trouble? Check out our [FAQ](https://your-app.com/faq) or open an [issue](https://github.com/your-username/espn-cookie-helper/issues).*
+*Having trouble? Check out our [FAQ](https://how-we-lookin.vercel.app/faq) or open an [issue](https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension/issues).*
