@@ -78,15 +78,17 @@ For testing or development:
    - Click **"Copy"** next to `ESPN_S2` (long value)
    - Click **"Copy"** next to `SWID` (short value, like `{ABC-123}`)
 
-5. **Paste into How We Lookin**
-   - Go to [How We Lookin Settings](https://how-we-lookin.vercel.app/settings)
-   - Paste `ESPN_S2` into the first field
-   - Paste `SWID` into the second field
-   - Click **"Save"** or **"Connect League"**
+5. **Use Cookies on How We Lookin**
+   - Go to [How We Lookin](https://how-we-lookin.vercel.app)
+   - Enter your ESPN league URL in the text box
+   - If your league is private, you'll be prompted to authenticate
+   - Choose **"Continue with Manual Entry"**
+   - Paste `ESPN_S2` and `SWID` into the fields
+   - Click **"Connect My League"**
 
 6. **Done!**
-   - Your private leagues should now sync
-   - Refresh the How We Lookin page to see your data
+   - Your private league data will load
+   - View your playoff odds and league standings
 
 ### Troubleshooting
 
@@ -282,4 +284,4 @@ ESPN, ESPN Fantasy Football, and related marks are trademarks of ESPN, Inc.
 
 **Made with 🏆 for fantasy football enthusiasts**
 
-*Having trouble? Check out our [FAQ](https://how-we-lookin.vercel.app/faq) or open an [issue](https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension/issues).*
+*Having trouble? Open an [issue](https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension/issues) or check the [README](https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension#readme) for help.*
