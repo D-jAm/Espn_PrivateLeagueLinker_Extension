@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "How We Lookin - ESPN Cookie Helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extract ESPN Fantasy Football authentication cookies to sync your private leagues with How We Lookin",
   "author": "How We Lookin",
 
