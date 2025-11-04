@@ -1,6 +1,6 @@
 # Privacy Policy for How We Lookin - ESPN Cookie Helper
 
-**Last Updated:** October 30, 2025
+**Last Updated:** November 4, 2025
 
 ## Overview
 
@@ -100,7 +100,7 @@ You have complete control over your data:
 
 ### Inspect Source Code
 - This extension is open-source
-- Review the code on [GitHub](https://github.com/your-username/espn-cookie-helper)
+- Review the code on [GitHub](https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension)
 - Verify there are no hidden data collection mechanisms
 
 ## Integration with How We Lookin Web App
@@ -185,7 +185,7 @@ We may update this privacy policy from time to time:
 - Review this policy periodically for changes
 
 ### How to Stay Informed
-- Check the [GitHub repository](https://github.com/your-username/espn-cookie-helper) for updates
+- Check the [GitHub repository](https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension) for updates
 - Review the Chrome Web Store listing for announcements
 - Watch for version updates in `chrome://extensions/`
 
@@ -292,8 +292,8 @@ This extension is **not affiliated with, endorsed by, or sponsored by ESPN**.
 
 ---
 
-**Last Updated:** October 30, 2025
+**Last Updated:** November 4, 2025
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 **Questions?** Contact us at support@how-we-lookin.vercel.app or open an issue on [GitHub](https://github.com/D-jAm/Espn_PrivateLeagueLinker_Extension/issues).
